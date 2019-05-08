@@ -1,0 +1,2 @@
+# GitPracticeforClassRoom
+Hello world GIT
